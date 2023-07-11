@@ -1,6 +1,6 @@
 # IFTTTWebHook ESP8266/ESP32 library
 
-__I no longer have time to maintain this library and am withdrawing it. I'll leave the repo around archived. Please don't use this library.__
+__Thanks to the original work by Romkey, that has archived this project. I have update the certificate with the latest from IFTTT and now is working fine again__
 
 This is a small library that calls [IFTTT](https://ifttt.com) web
 hooks from your ESP8266 or ESP32 Arduino project.
